@@ -9,7 +9,8 @@ namespace FriendLetter.Controllers
         public ActionResult Letter()
         {
             LetterVariable myLetterVariable = new LetterVariable();
-            myLetterVariable.SetRecipient("Noob");
+            myLetterVariable.SetRecipient("Donny Darko");
+            myLetterVariable.SetSender("Tom Ace");
             return View(myLetterVariable);
         }
 
