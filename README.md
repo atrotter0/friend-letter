@@ -1,18 +1,12 @@
-# Project Name Here
+# MVC Homework
 
-#### Epicodus C# exercise, date
+#### Epicodus C# MVC homework, 06.01.18
 
-#### By Your Name Here
+#### By Abel Trotter
 
 ## Description
 
-Add a description here
-
-## Specs
-
-| Behavior | Input | Output |
-|----------|-------|--------|
-| Behavior | input | output |
+MVC homework for .Net
 
 ## Setup on OSX
 
@@ -20,6 +14,7 @@ Add a description here
 * Download and install Mono
 * Clone the repo
 * Run `dotnet restore` from within the project directory
+* Run `dotnet build` to start the server
 
 ## Contribution Requirements
 
@@ -32,12 +27,8 @@ Add a description here
 
 * .Net Core 1.1.4
 
-## Links
-
-* Add links here
-
 ## License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2018 **Your Name Here**
+Copyright (c) 2018 **Abel Trotter**
